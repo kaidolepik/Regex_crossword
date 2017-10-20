@@ -1,0 +1,14 @@
+univ_char = "-"
+grid_file = "../Resources/Grid.png"
+crossword_file = "../Resources/Crossword.txt"
+crossword_out_video_file = "../Solve_video.avi"
+width_start = 229
+width_step = 29
+height_start = 207
+height_step = 25
+font_scale = 0.6
+font_face = 3
+font_thickness = 1
+font_color = (0, 0, 255)
+cv2_waitKey = 1
+cv2_fps = 24
